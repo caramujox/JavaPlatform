@@ -1,7 +1,7 @@
 # JavaPlatform - FIAP - 43SCJ
 Anotações de Aula, me viro pra entender depois
 
-##Aula 1 - Sintax, OOP, Encapsulamento e IDE
+## Aula 1 - Sintax, OOP, Encapsulamento e IDE
  <ol> 
     <li>Pesquisar GraalVM</li>
     <li>Convenção de Linguagem</li>
