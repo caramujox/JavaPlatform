@@ -46,3 +46,23 @@ Anotações de Aula, me viro pra entender depois
         <p></p></li>
 </ol>
 </details>
+
+## Aula 3 - Exceptions, Datas, Objects e Mensagens
+<details>
+<summary>Notes</summary>
+<ol>
+    <li>Tipos de Erros:</li>
+        <ul>
+        <li>Previsiveis</li>
+        <li>Não Previsiveis</li>
+        </ul>
+    <li>Exceptions</li>
+        <ul><p>Freio normal, Saco de Areia, Bloco de concreto do trem</p>
+        </ul>
+    <li></li>
+</ol>
+</details>
+
+<details>
+<summary>DETAILS</summary>
+</details>
