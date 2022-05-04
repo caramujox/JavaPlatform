@@ -2,6 +2,8 @@
 Anotações de Aula, me viro pra entender depois
 
 ## Aula 1 - Sintax, OOP, Encapsulamento e IDE
+ <details>
+ 
  <ol> 
     <li>Pesquisar GraalVM</li>
     <li>Convenção de Linguagem</li>
@@ -26,4 +28,21 @@ Anotações de Aula, me viro pra entender depois
             <li>Getter, Setter, Lombok</li>
             <li>Construtores</li>
         </ul>
- </ol>
+ </ol></details>
+
+## Aula 2 - Herança, Polimorfi, Abstratas e Interfaces
+<details>
+    <summary>Notes</summary>
+<ol>
+        <li>Override depende de assinatura (não lembrava XD)</li>
+        <li>Relacionamentos</li>
+            <ul>
+                <li> Agregação: Fraco - Relacionamento Parte-Todo <p><b>Um é parte, outro é todo mas matar o todo não mata o um</b></p>
+                </li>
+                <li> Composição: Forte -Relacionamento Parte-Todo <p><b>Um é parte, outro é todo e matar o o todo mata o um</b></p>
+                </li>
+            </ul>
+        <li>Classes abstratas: Classe semi pronta.
+        <p></p></li>
+</ol>
+</details>
